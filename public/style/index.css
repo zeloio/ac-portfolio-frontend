@@ -1,0 +1,55 @@
+:root {
+	background-color: #eee !important;
+}
+
+body {
+	background-color: #eee
+}
+
+#console {
+	font-family: courier, monospace;
+	color: #333;
+	width:90%;
+	max-width: 750px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:60px;
+	font-size:14px;
+	box-sizing: border-box;
+}
+
+p{
+	display: inline-block;
+	margin: 16px 0;
+}
+
+a {
+	color: #0bc;
+	text-decoration: none;
+}
+
+#a {
+	color: rgb(0, 136, 0);
+}
+
+#c {
+	color: rgb(0, 157, 172);
+}
+
+#b {
+	color: #ff0096;
+}
+
+#k {
+    	animation: change 1s;
+}
+
+#op{
+    	color: #888888
+}
+
+@keyframes change {
+    	0%  { color:  rgb(0, 173, 0); }
+    	50% { color:  rgb(0, 109, 0); }
+    	99% { color: rgb(44, 44, 44); }
+}
