@@ -12,4 +12,4 @@ Email di contatto ---> <a href="mailto:andy.chen@zelo.io">andy.chen@zelo.io</a>.
 
 <p>Cya!</p>
 <span id="a">home@zen</span>:<span id="b">~</span><span id="c">$</span> viu ./assets/profile.jpg
-<img src="../assets/profile.jpg" height="130px">
+<img src="./assets/profile.jpg" height="130px">
